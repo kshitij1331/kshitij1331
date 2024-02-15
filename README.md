@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**kshitij1331/kshitij1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am Kshitij Choubey 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo](images/banner.png)
+
+
+## 🚀 About Me
+I am Kshitij Choubey an enthusiast, Engage with me in building a dynamic IT future! Oracle and Red Hat Certified Engineer, proficient in system administration, database management, and scripting. Eager to contribute to innovative projects in a challenging IT landscape. 
+
+## Certifications
+
+![RHCE](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![OCA](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 🔗 Connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kshitijchoubey.com/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-choubey-9a74a4124/)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thekshitijchoubey)
+
