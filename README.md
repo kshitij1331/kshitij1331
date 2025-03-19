@@ -2,7 +2,7 @@
 ### Hi there I am Kshitij Choubey 👋
 
 
-![Logo](images/banner1.png)
+![Logo](images/banner12.png)
 
 
 ## 🚀 About Me
