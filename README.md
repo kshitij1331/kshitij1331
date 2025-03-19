@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I am Kshitij Choubey an enthusiast, Engage with me in building a dynamic IT future! Oracle and Red Hat Certified Engineer, proficient in system administration, database management, and scripting. Eager to contribute to innovative projects in a challenging IT landscape. 
+I’m Kshitij Choubey, a passionate developer with expertise in system administration, database management, and scripting. As an Oracle and Red Hat Certified Engineer, I am focused on building innovative and dynamic IT solutions. Always eager to contribute to cutting-edge projects, I thrive in tackling challenges and advancing in the ever-evolving tech landscape. 
 
 ## Certifications
 
